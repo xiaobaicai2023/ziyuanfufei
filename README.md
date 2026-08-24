@@ -10,7 +10,7 @@
  用户端 uniapp（vue语法）
  管理后台 vue+elementUi
 
-# 软件截图
+# 软件截图-
 
 ![01](https://github.com/user-attachments/assets/6d48dafa-324a-41fa-88a6-88494cbb04da)
 ![02](https://github.com/user-attachments/assets/8eb0c524-8d36-4a14-9336-c32df9be37f5)
